@@ -1,0 +1,3264 @@
+{
+    "FinancialStatements": {
+        "BalanceSheet": {
+            "Assets": {
+                "DeferredIncomeTaxAssetsNet": "Deferred Income Tax Assets (Net)",
+                "OtherAssets": "Other Assets",
+                "DefinedBenefitPlanExpectedReturnOnPlanAssets": "Defined Benefit Plan - Expected Return on Plan Assets",
+                "AmortizationOfIntangibleAssets": "Amortization Of Intangible Assets",
+                "OtherAssetsCurrent": "Other Assets Current",
+                "AssetsCurrent": "Assets Current",
+                "FiniteLivedIntangibleAssetsAccumulatedAmortization": "Finite Lived Intangible Assets Accumulated Amortization",
+                "IntangibleAssetsNetExcludingGoodwill": "Intangible Assets Net Excluding Goodwill",
+                "OtherAssetsNoncurrent": "Other Assets Noncurrent",
+                "Assets": "Assets",
+                "ScheduleOfFairValueAssetsAndLiabilitiesMeasuredOnRecurringBasisTableTextBlock": "Schedule Of Fair Value Assets And Liabilities Measured On Recurring Basis Table Text Block",
+                "DerivativeAssets": "Derivative Assets",
+                "AssetsFairValueDisclosure": "Assets Fair Value Disclosure",
+                "FiniteLivedIntangibleAssetsGross": "Finite Lived Intangible Assets Gross",
+                "IntangibleAssetsGrossExcludingGoodwill": "Intangible Assets Gross Excluding Goodwill"
+            },
+            "Liabilities": {
+                "LiabilitiesAndStockholdersEquity": "Liabilities & Stockholders' Equity",
+                "AccruedLiabilitiesCurrent": "Accrued Liabilities Current",
+                "OtherLiabilitiesCurrent": "Other Liabilities Current",
+                "LiabilitiesCurrent": "Liabilities Current",
+                "DeferredIncomeTaxLiabilitiesNet": "Deferred Income Tax Liabilities Net",
+                "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent": "Pension And Other Postretirement Defined Benefit Plans Liabilities Noncurrent",
+                "OtherLiabilitiesNoncurrent": "Other Liabilities Noncurrent",
+                "Liabilities": "Liabilities",
+                "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities": "Increase Decrease In Accounts Payable And Accrued Liabilities",
+                "DerivativeLiabilities": "Derivative Liabilities",
+                "LiabilitiesFairValueDisclosure": "Liabilities Fair Value Disclosure"
+            },
+            "Equity": {
+                "NetIncomeLossAvailableToCommonStockholdersBasic": "Net Income Available to Common Stockholders (Basic)",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod": "Share-Based Compensation - Vested Awards (Non-Options)",
+                "StockholdersEquity": "Stockholders Equity",
+                "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": "Stockholders Equity Including Portion Attributable To Noncontrolling Interest",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Number",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Weighted Average Grant Date Fair Value",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period Weighted Average Grant Date Fair Value",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period Weighted Average Grant Date Fair Value",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardNonOptionEquityInstrumentsOther": "Share Based Compensation Arrangement By Share Based Payment Award Non Option Equity Instruments Other",
+                "ShareBasedCompensationArrangementbyShareBasedpaymentAwardEquityInstrumentOtherThanOptionsExpirationsinPeriod": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instrument Other Than Options Expirations In Period",
+                "ShareBasedCompensationArrangementBySharebasedPaymentAwardNonOptionEquityInstrumentsForfeituresandExpirationsWeightedAverageExercisePrice": "Share Based Compensation Arrangement By Share Based Payment Award Non Option Equity Instruments Forfeitures And Expirations Weighted Average Exercise Price",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeited In Period",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeitures Weighted Average Grant Date Fair Value",
+                "ScheduleOfStockholdersEquityTableTextBlock": "Schedule Of Stockholders Equity Table Text Block",
+                "StockholdersEquityNoteDisclosureTextBlock": "Stockholders Equity Note Disclosure Text Block"
+            }
+        },
+        "IncomeStatement": {
+            "Revenues": {
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax": "OCI - Cash Flow Hedge Gain/Loss (Before Reclassification, After Tax)",
+                "OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax": "OCI - Before Reclassifications (Net of Tax)",
+                "IncomeTaxReconciliationChangeInEnactedTaxRate": "Income Tax Reconciliation - Change in Enacted Tax Rate",
+                "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax": "OCI - Pension/Post-Retirement Plans Reclassification (Before Tax)",
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax": "OCI - Cash Flow Hedge Gain/Loss (Before Reclassification & Tax)",
+                "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax": "OCI - Foreign Currency Transaction & Translation Adjustment (Net of Tax)",
+                "ComprehensiveIncomeNetOfTax": "Comprehensive Income (Net of Tax)",
+                "EffectiveIncomeTaxRateContinuingOperations": "Effective Income Tax Rate - Continuing Operations",
+                "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossTax": "OCI - Pension/Post-Retirement Reclassification (Tax Effect)",
+                "OperatingIncomeLoss": "Operating Income (Loss)",
+                "AccruedIncomeTaxesNoncurrent": "Accrued Income Taxes (Noncurrent)",
+                "OtherNonoperatingIncomeExpense": "Other Non-Operating Income (Expense)",
+                "IncreaseDecreaseInAccruedIncomeTaxesPayable": "Increase/Decrease in Accrued Income Taxes Payable",
+                "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax": "OCI - Pension/Post-Retirement Benefit Plans Unamortized Gain/Loss (Before Tax)",
+                "Revenues": "Revenues",
+                "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest": "Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest",
+                "IncomeTaxExpenseBenefit": "Income Tax Expense Benefit",
+                "NetIncomeLossAttributableToNoncontrollingInterest": "Net Income Loss Attributable To Noncontrolling Interest",
+                "NetIncomeLoss": "Net Income Loss",
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification After Tax",
+                "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Gain Loss Net Of Tax",
+                "OtherComprehensiveIncomeLossNetOfTax": "Other Comprehensive Income Loss Net Of Tax",
+                "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest": "Comprehensive Income Net Of Tax Including Portion Attributable To Noncontrolling Interest",
+                "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest": "Comprehensive Income Net Of Tax Attributable To Noncontrolling Interest",
+                "AccruedIncomeTaxesCurrent": "Accrued Income Taxes Current",
+                "AccumulatedOtherComprehensiveIncomeLossNetOfTax": "Accumulated Other Comprehensive Income Loss Net Of Tax",
+                "DeferredIncomeTaxExpenseBenefit": "Deferred Income Tax Expense Benefit",
+                "OtherNoncashIncomeExpense": "Other Noncash Income Expense",
+                "IncomeTaxesPaidNet": "Income Taxes Paid Net",
+                "DerivativeInstrumentsGainLossRecognizedInIncomeIneffectivePortionAndAmountExcludedFromEffectivenessTestingNet": "Derivative Instruments Gain Loss Recognized In Income Ineffective Portion And Amount Excluded From Effectiveness Testing Net",
+                "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansTax": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans Tax",
+                "IncomeTaxDisclosureTextBlock": "Income Tax Disclosure Text Block",
+                "ComprehensiveIncomeNoteTextBlock": "Comprehensive Income Note Text Block",
+                "ScheduleOfComprehensiveIncomeLossTableTextBlock": "Schedule Of Comprehensive Income Loss Table Text Block",
+                "ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodNetOfTax": "Reclassification From Accumulated Other Comprehensive Income Current Period Net Of Tax",
+                "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": "Other Comprehensive Income Loss Net Of Tax Portion Attributable To Parent",
+                "ReclassificationOutOfAccumulatedOtherComprehensiveIncomeTableTextBlock": "Reclassification Out Of Accumulated Other Comprehensive Income Table Text Block",
+                "InterestIncomeExpenseNet": "Interest Income Expense Net",
+                "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest": "Income Loss From Continuing Operations Including Portion Attributable To Noncontrolling Interest",
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification Tax",
+                "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetTransitionAssetObligationBeforeTax": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Transition Asset Obligation Before Tax",
+                "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditBeforeTax": "Other Comprehensive Income Loss Amortization Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Prior Service Cost Credit Before Tax",
+                "IncomeTaxAllocatedtoEachComponentofOtherComprehensiveIncomeTableTextBlock": "Income Tax Allocated To Each Component Of Other Comprehensive Income Table Text Block",
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Before Reclassification Tax",
+                "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification Before Tax",
+                "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodTax": "Other Comprehensive Income Defined Benefit Plans Net Unamortized Gain Loss Arising During Period Tax",
+                "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax": "Other Comprehensive Income Loss Foreign Currency Transaction And Translation Adjustment Before Tax",
+                "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax": "Other Comprehensive Income Loss Foreign Currency Translation Adjustment Tax",
+                "OtherComprehensiveIncomeLossBeforeTax": "Other Comprehensive Income Loss Before Tax",
+                "OtherComprehensiveIncomeLossTax": "Other Comprehensive Income Loss Tax",
+                "DisaggregationOfRevenueTableTextBlock": "Disaggregation Of Revenue Table Text Block",
+                "Revenuespercent": "Revenues Percent"
+            },
+            "Expenses": {
+                "DefinedBenefitPlanAmortizationOfPriorServiceCostCredit": "Defined Benefit Plan - Amortization of Prior Service Cost Credit",
+                "EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition1": "Employee Service-Based Compensation - Nonvested Awards (Total Cost Not Yet Recognized)",
+                "CostOfGoodsAndServicesSold": "Cost Of Goods And Services Sold",
+                "OperatingExpenses": "Operating Expenses",
+                "RestructuringCostsAndAssetImpairmentCharges": "Restructuring Costs And Asset Impairment Charges",
+                "InterestExpenseNonoperating": "Interest Expense Nonoperating",
+                "RestructuringAndRelatedCostCostIncurredToDate1": "Restructuring And Related Cost Cost Incurred To Date 1",
+                "RestructuringAndRelatedCostExpectedCost1": "Restructuring And Related Cost Expected Cost 1",
+                "RestructuringAndRelatedCostIncurredCost": "Restructuring And Related Cost Incurred Cost",
+                "DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock": "Disclosure Of Compensation Related Costs Share Based Payments Text Block",
+                "EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized": "Employee Service Share Based Compensation Nonvested Awards Total Compensation Cost Not Yet Recognized",
+                "AllocatedShareBasedCompensationExpense": "Allocated Share Based Compensation Expense",
+                "ScheduleOfCostsOfRetirementPlansTableTextBlock": "Schedule Of Costs Of Retirement Plans Table Text Block",
+                "DefinedBenefitPlanServiceCost": "Defined Benefit Plan Service Cost",
+                "DefinedBenefitPlanInterestCost": "Defined Benefit Plan Interest Cost",
+                "DefinedBenefitPlanNetPeriodicBenefitCost": "Defined Benefit Plan Net Periodic Benefit Cost",
+                "LitigationSettlementExpense": "Litigation Settlement Expense"
+            },
+            "Profitability": {
+                "GrossProfit": "Gross Profit",
+                "ProfitLoss": "Profit Loss"
+            }
+        },
+        "CashFlowStatement": {
+            "Operating": {
+                "OperatingLeaseLiabilityCurrent": "Operating Lease Liability (Current)",
+                "OperatingLeaseRightOfUseAsset": "Operating Lease Right Of Use Asset",
+                "OperatingLeaseLiabilityNoncurrent": "Operating Lease Liability Noncurrent",
+                "IncreaseDecreaseInOtherOperatingCapitalNet": "Increase Decrease In Other Operating Capital Net",
+                "NetCashProvidedByUsedInOperatingActivities": "Net Cash Provided By Used In Operating Activities",
+                "CashFlowSupplementalDisclosuresTextBlock": "Cash Flow Supplemental Disclosures Text Block",
+                "ScheduleOfCashFlowSupplementalDisclosuresTableTextBlock": "Schedule Of Cash Flow Supplemental Disclosures Table Text Block"
+            },
+            "Investing": {
+                "ProceedsFromInsuranceSettlementInvestingActivities": "Proceeds from Insurance Settlement - Investing Activities",
+                "PaymentsForProceedsFromOtherInvestingActivities": "Payments For Proceeds From Other Investing Activities",
+                "NetCashProvidedByUsedInInvestingActivities": "Net Cash Provided By Used In Investing Activities"
+            },
+            "Financing": {
+                "NetCashProvidedByUsedInFinancingActivities": "Net Cash Provided/Used in Financing Activities",
+                "ProceedsFromPaymentsForOtherFinancingActivities": "Proceeds From Payments For Other Financing Activities"
+            }
+        },
+        "Disclosures": {
+            "AccountingPolicies": {},
+            "StockOptions": {},
+            "Derivatives": {
+                "DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock": "Derivative Instruments And Hedging Activities Disclosure Text Block",
+                "DerivativeFairValueOfDerivativeAsset": "Derivative Fair Value Of Derivative Asset",
+                "DerivativeFairValueOfDerivativeNet": "Derivative Fair Value Of Derivative Net",
+                "DerivativeFairValueOfDerivativeLiability": "Derivative Fair Value Of Derivative Liability",
+                "ScheduleOfOtherDerivativesNotDesignatedAsHedgingInstrumentsStatementsOfFinancialPerformanceAndFinancialPositionLocationTableTextBlock": "Schedule Of Other Derivatives Not Designated As Hedging Instruments Statements Of Financial Performance And Financial Position Location Table Text Block",
+                "DerivativeGainLossOnDerivativeNet": "Derivative Gain Loss On Derivative Net",
+                "DerivativeNotionalAmount": "Derivative Notional Amount",
+                "DerivativeAmountOfHedgedItem": "Derivative Amount Of Hedged Item",
+                "DerivativeAssetNotionalAmount": "Derivative Asset Notional Amount"
+            },
+            "PensionPlans": {
+                "IncreaseDecreaseInPensionAndPostretirementObligations": "Increase Decrease In Pension And Postretirement Obligations",
+                "PensionAndOtherPostretirementBenefitsDisclosureTextBlock": "Pension And Other Postretirement Benefits Disclosure Text Block"
+            },
+            "Other": {
+                "ShortTermBankLoansAndNotesPayable": "Short-Term Bank Loans & Notes Payable",
+                "RetainedEarningsAccumulatedDeficit": "Retained Earnings / Accumulated Deficit",
+                "LocalPhoneNumber": "Local Phone Number",
+                "AccountsReceivableNetCurrent": "Accounts Receivable, Net (Current)",
+                "AllowanceForDoubtfulAccountsReceivableCurrent": "Allowance for Doubtful Accounts (Current)",
+                "Rule10b51ArrTrmntdFlag": "Rule 10b5-1 Arrangement Terminated (Flag)",
+                "ProceedsFromStockOptionsExercised": "Proceeds from Stock Options Exercised",
+                "LineOfCreditFacilityRemainingBorrowingCapacity": "Line of Credit Facility - Remaining Borrowing Capacity",
+                "MinorityInterest": "Minority Interest",
+                "GoodwillImpairedAccumulatedImpairmentLoss": "Goodwill Impaired - Accumulated Impairment Loss",
+                "PaymentsForRepurchaseOfCommonStock": "Payments for Repurchase of Common Stock",
+                "NetDebttoEBITDARatiodomesticcashallowedtonetdebtamountminimum": "Net Debt to EBITDAR Ratio - Minimum Domestic Cash Allowed",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue": "Share-Based Compensation - Exercised Options (Total Intrinsic Value)",
+                "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm1": "Share-Based Compensation - Exercisable Options (Weighted Avg. Remaining Contractual Term)",
+                "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount": "Antidilutive Securities - Excluded from EPS Computation",
+                "EntityAddressCityOrTown": "Entity Address - City/Town",
+                "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": "Cash, Cash Equivalents & Restricted Cash",
+                "NetDebttoEBITDARatioMaximum": "Net Debt to EBITDAR Ratio - Maximum",
+                "NoTradingSymbolFlag": "No Trading Symbol (Flag)",
+                "EntityCentralIndexKey": "Entity Central Index Key",
+                "CurrentFiscalYearEndDate": "Current Fiscal Year End Date",
+                "DocumentFiscalYearFocus": "Document Fiscal Year Focus",
+                "DocumentFiscalPeriodFocus": "Document Fiscal Period Focus",
+                "AmendmentFlag": "Amendment Flag",
+                "FiniteLivedIntangibleAssetUsefulLife": "Finite Lived Intangible Asset Useful Life",
+                "DocumentType": "Document Type",
+                "DocumentQuarterlyReport": "Document Quarterly Report",
+                "DocumentPeriodEndDate": "Document Period End Date",
+                "DocumentTransitionReport": "Document Transition Report",
+                "EntityFileNumber": "Entity File Number",
+                "EntityRegistrantName": "Entity Registrant Name",
+                "EntityIncorporationStateCountryCode": "Entity Incorporation State Country Code",
+                "EntityTaxIdentificationNumber": "Entity Tax Identification Number",
+                "EntityAddressAddressLine1": "Entity Address Address Line 1",
+                "EntityAddressAddressLine2": "Entity Address Address Line 2",
+                "EntityAddressStateOrProvince": "Entity Address State Or Province",
+                "EntityAddressPostalZipCode": "Entity Address Postal Zip Code",
+                "CityAreaCode": "City Area Code",
+                "Security12bTitle": "Security 12b Title",
+                "TradingSymbol": "Trading Symbol",
+                "SecurityExchangeName": "Security Exchange Name",
+                "EntityCurrentReportingStatus": "Entity Current Reporting Status",
+                "EntityInteractiveDataCurrent": "Entity Interactive Data Current",
+                "EntityFilerCategory": "Entity Filer Category",
+                "EntitySmallBusiness": "Entity Small Business",
+                "EntityEmergingGrowthCompany": "Entity Emerging Growth Company",
+                "EntityShellCompany": "Entity Shell Company",
+                "EntityCommonStockSharesOutstanding": "Entity Common Stock Shares Outstanding",
+                "EarningsPerShareBasic": "Earnings Per Share Basic",
+                "EarningsPerShareDiluted": "Earnings Per Share Diluted",
+                "WeightedAverageNumberOfSharesOutstandingBasic": "Weighted Average Number Of Shares Outstanding Basic",
+                "WeightedAverageNumberOfDilutedSharesOutstanding": "Weighted Average Number Of Diluted Shares Outstanding",
+                "CashAndCashEquivalentsAtCarryingValue": "Cash And Cash Equivalents At Carrying Value",
+                "InventoryNet": "Inventory Net",
+                "LandAndBuildingsGross": "Land And Buildings Gross",
+                "MachineryAndEquipmentGross": "Machinery And Equipment Gross",
+                "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment": "Accumulated Depreciation Depletion And Amortization Property Plant And Equipment",
+                "PropertyPlantAndEquipmentNet": "Property Plant And Equipment Net",
+                "Goodwill": "Goodwill",
+                "AccountsPayableCurrent": "Accounts Payable Current",
+                "LongTermDebtAndCapitalLeaseObligations": "Long Term Debt And Capital Lease Obligations",
+                "CommitmentsAndContingencies": "Commitments And Contingencies",
+                "PreferredStockNoParValue": "Preferred Stock No Par Value",
+                "PreferredStockSharesAuthorized": "Preferred Stock Shares Authorized",
+                "PreferredStockSharesIssued": "Preferred Stock Shares Issued",
+                "PreferredStockValue": "Preferred Stock Value",
+                "CommonStockParOrStatedValuePerShare": "Common Stock Par Or Stated Value Per Share",
+                "CommonStockSharesAuthorized": "Common Stock Shares Authorized",
+                "CommonStockSharesIssued": "Common Stock Shares Issued",
+                "CommonStockValue": "Common Stock Value",
+                "AdditionalPaidInCapitalCommonStock": "Additional Paid In Capital Common Stock",
+                "Depreciation": "Depreciation",
+                "ShareBasedCompensation": "Share Based Compensation",
+                "AssetImpairmentChargesandRestructuringReserveSettledWithoutCash": "Asset Impairment Charges And Restructuring Reserve Settled Without Cash",
+                "InsuranceRecoveries": "Insurance Recoveries",
+                "IncreaseDecreaseInAccountsReceivable": "Increase Decrease In Accounts Receivable",
+                "IncreaseDecreaseInInventories": "Increase Decrease In Inventories",
+                "PaymentsToAcquirePropertyPlantAndEquipment": "Payments To Acquire Property Plant And Equipment",
+                "ProceedsFromSaleOfPropertyPlantAndEquipment": "Proceeds From Sale Of Property Plant And Equipment",
+                "PaymentsToAcquireBusinessesNetOfCashAcquired": "Payments To Acquire Businesses Net Of Cash Acquired",
+                "ProceedsFromRepaymentsOfNotesPayable": "Proceeds From Repayments Of Notes Payable",
+                "ProceedsFromRepaymentsOfLinesOfCredit": "Proceeds From Repayments Of Lines Of Credit",
+                "DividendReinvestmentAndEmployeeBenefitAndStockPlans": "Dividend Reinvestment And Employee Benefit And Stock Plans",
+                "PaymentsOfDividendsCommonStock": "Payments Of Dividends Common Stock",
+                "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": "Effect Of Exchange Rate On Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents",
+                "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect": "Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents Period Increase Decrease Including Exchange Rate Effect",
+                "InterestPaidNet": "Interest Paid Net",
+                "Changeinaccountspayablerelatedtopurchasesofpropertyplantandequipment": "Change In Account Payable Related To Purchases Of Property Plant And Equipment",
+                "SupplierFinanceProgramTextBlock": "Supplier Finance Program Text Block",
+                "SupplierFinanceProgramObligation": "Supplier Finance Program Obligation",
+                "FairValueDisclosuresTextBlock": "Fair Value Disclosures Text Block",
+                "ScheduleOfCashHedgesTableTextBlock": "Schedule Of Cash Hedges Table Text Block",
+                "TranslationAdjustmentForNetInvestmentHedgeIncreaseDecreaseNetOfTax": "Translation Adjustment For Net Investment Hedge Increase Decrease Net Of Tax",
+                "ScheduleOfNetInvestmentHedgesStatementsOfFinancialPerformanceAndFinancialPositionLocationTableTextBlock": "Schedule Of Net Investment Hedges Statements Of Financial Performance And Financial Position Location Table Text Block",
+                "RestructuringImpairmentAndOtherActivitiesDisclosureTextBlock": "Restructuring Impairment And Other Activities Disclosure Text Block",
+                "GainLossOnSaleOfProperties": "Gain Loss On Sale Of Properties",
+                "RestructuringReserve": "Restructuring Reserve",
+                "RestructuringCharges": "Restructuring Charges",
+                "RestructuringReserveTranslationAdjustment": "Restructuring Reserve Translation Adjustment",
+                "PaymentsForRestructuring": "Payments For Restructuring",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Number",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Weighted Average Exercise Price",
+                "StockIssuedDuringPeriodSharesStockOptionsExercised": "Stock Issued During Period Shares Stock Options Exercised",
+                "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice": "Share Based Compensation Arrangements By Share Based Payment Award Options Exercises In Period Weighted Average Exercise Price",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriod": "Share Based Compensation Arrangement By Share Based Payment Award Options Forfeitures And Expirations In Period",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriodWeightedAverageExercisePrice": "Share Based Compensation Arrangement By Share Based Payment Award Options Forfeitures And Expirations In Period Weighted Average Exercise Price",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Intrinsic Value",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingNumber": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Number",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingWeightedAverageExercisePrice": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Weighted Average Exercise Price",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingAggregateIntrinsicValue": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Aggregate Intrinsic Value",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercisable Number",
+                "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageExercisePrice": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercisable Weighted Average Exercise Price",
+                "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue1": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercisable Intrinsic Value 1",
+                "ScheduleOfOtherShareBasedCompensationActivityTableTextBlock": "Schedule Of Other Share Based Compensation Activity Table Text Block",
+                "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsOtherShareIncreaseDecreaseInPeriodWeightedAverageExercisePrice": "Share Based Compensation Arrangements By Share Based Payment Award Options Other Share Increase Decrease In Period Weighted Average Exercise Price",
+                "DefinedBenefitPlanAmortizationOfTransitionAssetObligation": "Defined Benefit Plan Amortization Of Transition Asset Obligation",
+                "DefinedBenefitPlanAmortizationOfGainsLosses": "Defined Benefit Plan Amortization Of Gains Losses",
+                "DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1": "Defined Benefit Plan Recognized Net Gain Loss Due To Settlements 1",
+                "DefinedBenefitPlansGeneralInformation": "Defined Benefit Plans General Information",
+                "InventoryDisclosureTextBlock": "Inventory Disclosure Text Block",
+                "PercentageOfLIFOInventory": "Percentage Of LIFO Inventory",
+                "ScheduleOfInventoryCurrentTableTextBlock": "Schedule Of Inventory Current Table Text Block",
+                "InventoryFinishedGoods": "Inventory Finished Goods",
+                "InventoryWorkInProcess": "Inventory Work In Process",
+                "InventoryRawMaterialsAndSupplies": "Inventory Raw Materials And Supplies",
+                "InventoryGross": "Inventory Gross",
+                "InventoryLIFOReserve": "Inventory LIFO Reserve",
+                "LongTermDebtTextBlock": "Long Term Debt Text Block",
+                "LongTermDebtFairValue": "Long Term Debt Fair Value",
+                "ShortTermDebtTextBlock": "Short Term Debt Text Block",
+                "LineOfCreditFacilityMaximumBorrowingCapacity": "Line Of Credit Facility Maximum Borrowing Capacity",
+                "LineOfCreditFacilityFairValueOfAmountOutstanding": "Line Of Credit Facility Fair Value Of Amount Outstanding",
+                "NotesPayable": "Notes Payable",
+                "EnvironmentalLossContingencyDisclosureTextBlock": "Environmental Loss Contingency Disclosure Text Block",
+                "AccrualForEnvironmentalLossContingencies": "Accrual For Environmental Loss Contingencies",
+                "AccruedEnvironmentalLossContingenciesCurrent": "Accrued Environmental Loss Contingencies Current",
+                "UnrecognizedTaxBenefits": "Unrecognized Tax Benefits",
+                "TaxAdjustmentsSettlementsAndUnusualProvisions": "Tax Adjustments Settlements And Unusual Provisions",
+                "EarningsPerShareTextBlock": "Earnings Per Share Text Block",
+                "ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTextBlock": "Schedule Of Antidilutive Securities Excluded From Computation Of Earnings Per Share Text Block",
+                "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements": "Incremental Common Shares Attributable To Share Based Payment Arrangements",
+                "StockIssuedDuringPeriodValueDividendReinvestmentPlan": "Stock Issued During Period Value Dividend Reinvestment Plan",
+                "StockIssuedDuringPeriodValueEmployeeBenefitPlan": "Stock Issued During Period Value Employee Benefit Plan",
+                "StockRepurchasedDuringPeriodValue": "Stock Repurchased During Period Value",
+                "CommonStockDividendsPerShareDeclared": "Common Stock Dividends Per Share Declared",
+                "DividendsCommonStockCash": "Dividends Common Stock Cash",
+                "GoodwillGross": "Goodwill Gross",
+                "GoodwillForeignCurrencyTranslationGainLoss": "Goodwill Foreign Currency Translation Gain Loss",
+                "CommitmentsAndContingenciesDisclosureTextBlock": "Commitments And Contingencies Disclosure Text Block",
+                "LossContingencyDamagesSought": "Loss Contingency Damages Sought",
+                "SegmentReportingDisclosureTextBlock": "Segment Reporting Disclosure Text Block",
+                "ScheduleOfSegmentReportingInformationBySegmentTextBlock": "Schedule Of Segment Reporting Information By Segment Text Block",
+                "Rule10b51ArrAdoptedFlag": "Rule 10b51 Arr Adopted Flag",
+                "NonRule10b51ArrTrmntdFlag": "Non Rule 10b51 Arr Trmntd Flag",
+                "NonRule10b51ArrAdoptedFlag": "Non Rule 10b51 Arr Adopted Flag"
+            }
+        }
+    },
+    "Metadata": {
+        "DeferredIncomeTaxAssetsNet": {
+            "RegulatoryName": "Deferred Income Tax Assets Net",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherAssets": {
+            "RegulatoryName": "Other Assets",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanExpectedReturnOnPlanAssets": {
+            "RegulatoryName": "Defined Benefit Plan Expected Return On Plan Assets",
+                        "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AmortizationOfIntangibleAssets": {
+            "RegulatoryName": "Amortization Of Intangible Assets",
+                "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherAssetsCurrent": {
+            "RegulatoryName": "Other Assets Current",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AssetsCurrent": {
+            "RegulatoryName": "Assets Current",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "FiniteLivedIntangibleAssetsAccumulatedAmortization": {
+            "RegulatoryName": "Finite Lived Intangible Assets Accumulated Amortization",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },  
+        "IntangibleAssetsNetExcludingGoodwill": {
+            "RegulatoryName": "Intangible Assets Net Excluding Goodwill",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherAssetsNoncurrent": {
+            "RegulatoryName": "Other Assets Noncurrent",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Assets": { 
+            "RegulatoryName": "Assets",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfFairValueAssetsAndLiabilitiesMeasuredOnRecurringBasisTableTextBlock": {
+            "RegulatoryName": "Schedule Of Fair Value Assets And Liabilities Measured On Recurring Basis Table Text Block",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeAssets": {
+            "RegulatoryName": "Derivative Assets",
+                "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AssetsFairValueDisclosure": {
+            "RegulatoryName": "Assets Fair Value Disclosure",
+            "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "FiniteLivedIntangibleAssetsGross": {
+            "RegulatoryName": "Finite Lived Intangible Assets Gross",
+                "Category": "BalanceSheet",
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IntangibleAssetsGrossExcludingGoodwill": {
+            "RegulatoryName": "Intangible Assets Gross Excluding Goodwill",
+            "Category": "BalanceSheet", 
+            "SubCategory": "Assets",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LiabilitiesAndStockholdersEquity": {
+            "RegulatoryName": "Liabilities And Stockholders Equity",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]   
+        },  
+        "AccruedLiabilitiesCurrent": {
+            "RegulatoryName": "Accrued Liabilities Current",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherLiabilitiesCurrent": {
+            "RegulatoryName": "Other Liabilities Current",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LiabilitiesCurrent": {
+            "RegulatoryName": "Liabilities Current",
+            "Category": "BalanceSheet",
+                "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DeferredIncomeTaxLiabilitiesNet": {
+            "RegulatoryName": "Deferred Income Tax Liabilities Net",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PensionAndOtherPostretirementDefinedBenefitPlansLiabilitiesNoncurrent": {
+            "RegulatoryName": "Pension And Other Postretirement Defined Benefit Plans Liabilities Noncurrent",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherLiabilitiesNoncurrent": {
+            "RegulatoryName": "Other Liabilities Noncurrent",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Liabilities": {
+            "RegulatoryName": "Liabilities",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInAccountsPayableAndAccruedLiabilities": {
+            "RegulatoryName": "Increase Decrease In Accounts Payable And Accrued Liabilities",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeLiabilities": {
+            "RegulatoryName": "Derivative Liabilities",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LiabilitiesFairValueDisclosure": {
+            "RegulatoryName": "Liabilities Fair Value Disclosure",
+            "Category": "BalanceSheet",
+            "SubCategory": "Liabilities",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetIncomeLossAvailableToCommonStockholdersBasic": {
+            "RegulatoryName": "Net Income Loss Available To Common Stockholders Basic",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "StockholdersEquity": {
+            "RegulatoryName": "Stockholders Equity",
+                "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest": {
+            "RegulatoryName": "Stockholders Equity Including Portion Attributable To Noncontrolling Interest",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Number",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Nonvested Weighted Average Grant Date Fair Value",
+            "Category": "BalanceSheet",
+                "SubCategory": "Equity",
+                "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue": {
+                "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Grants In Period Weighted Average Grant Date Fair Value",
+                "Category": "BalanceSheet",
+                "SubCategory": "Equity",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Vested In Period Weighted Average Grant Date Fair Value",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardNonOptionEquityInstrumentsOther": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Non Option Equity Instruments Other",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementbyShareBasedpaymentAwardEquityInstrumentOtherThanOptionsExpirationsinPeriod": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Non Option Equity Instruments Other",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",    
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementBySharebasedPaymentAwardNonOptionEquityInstrumentsForfeituresandExpirationsWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Sharebased Payment Award Non Option Equity Instruments Forfeituresand Expirations Weighted Average Exercise Price",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeited In Period",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue": {
+                "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Equity Instruments Other Than Options Forfeitures Weighted Average Grant Date Fair Value",
+                "Category": "BalanceSheet",
+                "SubCategory": "Equity",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ScheduleOfStockholdersEquityTableTextBlock": {
+            "RegulatoryName": "Schedule Of Stockholders Equity Table Text Block",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "StockholdersEquityNoteDisclosureTextBlock": {
+            "RegulatoryName": "Stockholders Equity Note Disclosure Text Block",
+            "Category": "BalanceSheet",
+            "SubCategory": "Equity",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax": {
+                "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Before Reclassification After Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Before Reclassifications Net Of Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeTaxReconciliationChangeInEnactedTaxRate": {
+            "RegulatoryName": "Income Tax Reconciliation Change In Enacted Tax Rate",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Gain Loss Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAndTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Before Reclassification And Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Foreign Currency Transaction And Translation Adjustment Net Of Tax",
+            "Category": "IncomeStatement",  
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ComprehensiveIncomeNetOfTax": {
+            "RegulatoryName": "Comprehensive Income Net Of Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EffectiveIncomeTaxRateContinuingOperations": {
+            "RegulatoryName": "Effective Income Tax Rate Continuing Operations",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Gain Loss Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OperatingIncomeLoss": {
+            "RegulatoryName": "Operating Income Loss",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccruedIncomeTaxesNoncurrent": {
+                "RegulatoryName": "Accrued Income Taxes Noncurrent",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherNonoperatingIncomeExpense": {
+            "RegulatoryName": "Other Nonoperating Income Expense",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInAccruedIncomeTaxesPayable": {
+            "RegulatoryName": "Increase Decrease In Accrued Income Taxes Payable",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossPensionAndOtherPostretirementBenefitPlansNetUnamortizedGainLossArisingDuringPeriodBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Pension And Other Postretirement Benefit Plans Net Unamortized Gain Loss Arising During Period Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Revenues": {
+            "RegulatoryName": "Revenues",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest": {
+            "RegulatoryName": "Income Loss From Continuing Operations Before Income Taxes Extraordinary Items Noncontrolling Interest",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeTaxExpenseBenefit": {
+            "RegulatoryName": "Income Tax Expense Benefit",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetIncomeLossAttributableToNoncontrollingInterest": {
+                "RegulatoryName": "Net Income Loss Attributable To Noncontrolling Interest",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetIncomeLoss": {
+            "RegulatoryName": "Net Income Loss",
+                "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationAfterTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification After Tax",
+                "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetGainLossNetOfTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Gain Loss Net Of Tax",
+                "Category": "IncomeStatement",  
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossNetOfTax": {   
+            "RegulatoryName": "Other Comprehensive Income Loss Net Of Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest": {
+            "RegulatoryName": "Comprehensive Income Net Of Tax Including Portion Attributable To Noncontrolling Interest",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest": {
+            "RegulatoryName": "Comprehensive Income Net Of Tax Attributable To Noncontrolling Interest",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccruedIncomeTaxesCurrent": {
+                "RegulatoryName": "Accrued Income Taxes Current",
+                "Category": "IncomeStatement",
+                "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccumulatedOtherComprehensiveIncomeLossNetOfTax": {
+            "RegulatoryName": "Accumulated Other Comprehensive Income Loss Net Of Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DeferredIncomeTaxExpenseBenefit": {
+            "RegulatoryName": "Deferred Income Tax Expense Benefit",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherNoncashIncomeExpense": {
+            "RegulatoryName": "Other Noncash Income Expense",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeTaxesPaidNet": { 
+            "RegulatoryName": "Income Taxes Paid Net",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text", 
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeInstrumentsGainLossRecognizedInIncomeIneffectivePortionAndAmountExcludedFromEffectivenessTestingNet": {
+            "RegulatoryName": "Derivative Instruments Gain Loss Recognized In Income Ineffective Portion And Amount Excluded From Effectiveness Testing Net",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Numeric",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeTaxDisclosureTextBlock": {
+            "RegulatoryName": "Income Tax Disclosure Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ComprehensiveIncomeNoteTextBlock": {
+            "RegulatoryName": "Comprehensive Income Note Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfComprehensiveIncomeLossTableTextBlock": {
+            "RegulatoryName": "Schedule Of Comprehensive Income Loss Table Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ReclassificationFromAccumulatedOtherComprehensiveIncomeCurrentPeriodNetOfTax": {
+            "RegulatoryName": "Reclassification From Accumulated Other Comprehensive Income Current Period Net Of Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossNetOfTaxPortionAttributableToParent": {
+            "RegulatoryName": "Other Comprehensive Income Loss Net Of Tax Portion Attributable To Parent",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ReclassificationOutOfAccumulatedOtherComprehensiveIncomeTableTextBlock": {
+            "RegulatoryName": "Reclassification Out Of Accumulated Other Comprehensive Income Table Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InterestIncomeExpenseNet": {
+            "RegulatoryName": "Interest Income Expense Net",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeLossFromContinuingOperationsIncludingPortionAttributableToNoncontrollingInterest": {
+                "RegulatoryName": "Income Loss From Continuing Operations Including Portion Attributable To Noncontrolling Interest",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetTransitionAssetObligationBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Reclassification Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Transition Asset Obligation Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossAmortizationAdjustmentFromAOCIPensionAndOtherPostretirementBenefitPlansForNetPriorServiceCostCreditBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Amortization Adjustment From AOCIPension And Other Postretirement Benefit Plans For Net Prior Service Cost Credit Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncomeTaxAllocatedtoEachComponentofOtherComprehensiveIncomeTableTextBlock": {
+                "RegulatoryName": "Income Tax Allocated To Each Component Of Other Comprehensive Income Table Text Block",
+                "Category": "IncomeStatement",
+                "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Before Reclassification Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossCashFlowHedgeGainLossReclassificationBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Cash Flow Hedge Gain Loss Reclassification Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeDefinedBenefitPlansNetUnamortizedGainLossArisingDuringPeriodTax": {
+            "RegulatoryName": "Other Comprehensive Income Defined Benefit Plans Net Unamortized Gain Loss Arising During Period Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Foreign Currency Transaction And Translation Adjustment Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Foreign Currency Translation Adjustment Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossBeforeTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Before Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OtherComprehensiveIncomeLossTax": {
+            "RegulatoryName": "Other Comprehensive Income Loss Tax",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DisaggregationOfRevenueTableTextBlock": {
+            "RegulatoryName": "Disaggregation Of Revenue Table Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Revenuespercent": {
+            "RegulatoryName": "Revenuespercent",
+            "Category": "IncomeStatement",
+            "SubCategory": "Revenues",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanAmortizationOfPriorServiceCostCredit": {
+            "RegulatoryName": "Defined Benefit Plan Amortization Of Prior Service Cost Credit",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedPeriodForRecognition1": {
+            "RegulatoryName": "Employee Service Share Based Compensation Nonvested Awards Total Compensation Cost Not Yet Recognized Period For Recognition1",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CostOfGoodsAndServicesSold": {
+            "RegulatoryName": "Cost Of Goods And Services Sold",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OperatingExpenses": {
+            "RegulatoryName": "Operating Expenses",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringCostsAndAssetImpairmentCharges": {
+            "RegulatoryName": "Restructuring Costs And Asset Impairment Charges",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InterestExpenseNonoperating": {
+            "RegulatoryName": "Interest Expense Nonoperating",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringAndRelatedCostCostIncurredToDate1": {
+            "RegulatoryName": "Restructuring And Related Cost Cost Incurred To Date1",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringAndRelatedCostExpectedCost1": {   
+            "RegulatoryName": "Restructuring And Related Cost Expected Cost1",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringAndRelatedCostIncurredCost": {    
+            "RegulatoryName": "Restructuring And Related Cost Incurred Cost",
+                "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DisclosureOfCompensationRelatedCostsShareBasedPaymentsTextBlock": {    
+            "RegulatoryName": "Disclosure Of Compensation Related Costs Share Based Payments Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognized": {
+            "RegulatoryName": "Employee Service Share Based Compensation Nonvested Awards Total Compensation Cost Not Yet Recognized",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AllocatedShareBasedCompensationExpense": {
+            "RegulatoryName": "Allocated Share Based Compensation Expense",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfCostsOfRetirementPlansTableTextBlock": {
+            "RegulatoryName": "Schedule Of Costs Of Retirement Plans Table Text Block",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanServiceCost": {
+            "RegulatoryName": "Defined Benefit Plan Service Cost",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanInterestCost": {
+            "RegulatoryName": "Defined Benefit Plan Interest Cost",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanNetPeriodicBenefitCost": {
+            "RegulatoryName": "Defined Benefit Plan Net Periodic Benefit Cost",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LitigationSettlementExpense": {
+            "RegulatoryName": "Litigation Settlement Expense",
+            "Category": "IncomeStatement",
+            "SubCategory": "Expenses",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "GrossProfit": {
+            "RegulatoryName": "Gross Profit",
+            "Category": "IncomeStatement",
+                    "SubCategory": "Profitability",
+                    "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProfitLoss": {
+            "RegulatoryName": "Profit Loss",
+            "Category": "IncomeStatement",
+            "SubCategory": "Profitability",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OperatingLeaseLiabilityCurrent": {
+            "RegulatoryName": "Operating Lease Liability Current",
+            "Category": "CashFlowStatement",    
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OperatingLeaseRightOfUseAsset": {  
+            "RegulatoryName": "Operating Lease Right Of Use Asset",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "OperatingLeaseLiabilityNoncurrent": {  
+            "RegulatoryName": "Operating Lease Liability Noncurrent",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInOtherOperatingCapitalNet": {
+            "RegulatoryName": "Increase Decrease In Other Operating Capital Net",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetCashProvidedByUsedInOperatingActivities": {
+            "RegulatoryName": "Net Cash Provided By Used In Operating Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CashFlowSupplementalDisclosuresTextBlock": {
+            "RegulatoryName": "Cash Flow Supplemental Disclosures Text Block",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfCashFlowSupplementalDisclosuresTableTextBlock": {
+            "RegulatoryName": "Schedule Of Cash Flow Supplemental Disclosures Table Text Block",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Operating",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromInsuranceSettlementInvestingActivities": {
+            "RegulatoryName": "Proceeds From Insurance Settlement Investing Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Investing",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PaymentsForProceedsFromOtherInvestingActivities": {
+            "RegulatoryName": "Payments For Proceeds From Other Investing Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Investing",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetCashProvidedByUsedInInvestingActivities": {
+            "RegulatoryName": "Net Cash Provided By Used In Investing Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Investing",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetCashProvidedByUsedInFinancingActivities": {
+            "RegulatoryName": "Net Cash Provided By Used In Financing Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Financing",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromPaymentsForOtherFinancingActivities": {
+            "RegulatoryName": "Proceeds From Payments For Other Financing Activities",
+            "Category": "CashFlowStatement",
+            "SubCategory": "Financing",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeInstrumentsAndHedgingActivitiesDisclosureTextBlock": {
+            "RegulatoryName": "Derivative Instruments And Hedging Activities Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeFairValueOfDerivativeAsset": {
+            "RegulatoryName": "Derivative Fair Value Of Derivative Asset",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeFairValueOfDerivativeNet": {
+            "RegulatoryName": "Derivative Fair Value Of Derivative Net",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeFairValueOfDerivativeLiability": {
+            "RegulatoryName": "Derivative Fair Value Of Derivative Liability",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfOtherDerivativesNotDesignatedAsHedgingInstrumentsStatementsOfFinancialPerformanceAndFinancialPositionLocationTableTextBlock": {
+            "RegulatoryName": "Schedule Of Other Derivatives Not Designated As Hedging Instruments Statements Of Financial Performance And Financial Position Location Table Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeGainLossOnDerivativeNet": {
+            "RegulatoryName": "Derivative Gain Loss On Derivative Net",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeNotionalAmount": {
+            "RegulatoryName": "Derivative Notional Amount",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeAmountOfHedgedItem": {
+            "RegulatoryName": "Derivative Amount Of Hedged Item",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DerivativeAssetNotionalAmount": {
+            "RegulatoryName": "Derivative Asset Notional Amount",
+            "Category": "Disclosures",
+            "SubCategory": "Derivatives",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInPensionAndPostretirementObligations": {
+            "RegulatoryName": "Increase Decrease In Pension And Postretirement Obligations",
+            "Category": "Disclosures",
+            "SubCategory": "PensionPlans",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PensionAndOtherPostretirementBenefitsDisclosureTextBlock": {
+            "RegulatoryName": "Pension And Other Postretirement Benefits Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "PensionPlans",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShortTermBankLoansAndNotesPayable": {
+            "RegulatoryName": "Short Term Bank Loans And Notes Payable",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RetainedEarningsAccumulatedDeficit": {
+            "RegulatoryName": "Retained Earnings Accumulated Deficit",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LocalPhoneNumber": {
+                "RegulatoryName": "Local Phone Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccountsReceivableNetCurrent": {
+            "RegulatoryName": "Accounts Receivable Net Current",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AllowanceForDoubtfulAccountsReceivableCurrent": {
+            "RegulatoryName": "Allowance For Doubtful Accounts Receivable Current",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Rule10b51ArrTrmntdFlag": {
+            "RegulatoryName": "Rule 10b5-1 Arrangement Terminated Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromStockOptionsExercised": {
+            "RegulatoryName": "Proceeds From Stock Options Exercised",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LineOfCreditFacilityRemainingBorrowingCapacity": {
+            "RegulatoryName": "Line Of Credit Facility Remaining Borrowing Capacity",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "MinorityInterest": {
+            "RegulatoryName": "Minority Interest",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "GoodwillImpairedAccumulatedImpairmentLoss": {
+            "RegulatoryName": "Goodwill Impaired Accumulated Impairment Loss",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PaymentsForRepurchaseOfCommonStock": {
+            "RegulatoryName": "Payments For Repurchase Of Common Stock",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetDebttoEBITDARatiodomesticcashallowedtonetdebtamountminimum": {
+            "RegulatoryName": "Net Debt To EBITDA Ratio Domestic Cash Allowed To Net Debt Amount Minimum",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercises In Period Total Intrinsic Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableWeightedAverageRemainingContractualTerm1": {
+            "RegulatoryName": "Sharebased Compensation Arrangement By Sharebased Payment Award Options Exercisable Weighted Average Remaining Contractual Term 1",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount": {
+            "RegulatoryName": "Antidilutive Securities Excluded From Computation Of Earnings Per Share Amount",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityAddressCityOrTown": {
+            "RegulatoryName": "Entity Address City Or Town",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": {
+            "RegulatoryName": "Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents",
+            "Category": "Disclosures",  
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NetDebttoEBITDARatioMaximum": {
+            "RegulatoryName": "Net Debt To EBITDA Ratio Maximum",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "NoTradingSymbolFlag": {
+            "RegulatoryName": "No Trading Symbol Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityCentralIndexKey": {
+            "RegulatoryName": "Entity Central Index Key",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CurrentFiscalYearEndDate": {
+                    "RegulatoryName": "Current Fiscal Year End Date",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentFiscalYearFocus": {
+            "RegulatoryName": "Document Fiscal Year Focus",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentFiscalPeriodFocus": {
+            "RegulatoryName": "Document Fiscal Period Focus",
+            "Category": "Disclosures",  
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AmendmentFlag": {
+            "RegulatoryName": "Amendment Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "FiniteLivedIntangibleAssetUsefulLife": {
+            "RegulatoryName": "Finite Lived Intangible Asset Useful Life",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentType": {
+            "RegulatoryName": "Document Type",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentQuarterlyReport": {
+            "RegulatoryName": "Document Quarterly Report",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentPeriodEndDate": {
+            "RegulatoryName": "Document Period End Date",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DocumentTransitionReport": {
+            "RegulatoryName": "Document Transition Report",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityFileNumber": {
+            "RegulatoryName": "Entity File Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityRegistrantName": {
+            "RegulatoryName": "Entity Registrant Name",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityIncorporationStateCountryCode": {
+            "RegulatoryName": "Entity Incorporation State Country Code",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityTaxIdentificationNumber": {
+            "RegulatoryName": "Entity Tax Identification Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityAddressAddressLine1": {
+            "RegulatoryName": "Entity Address Address Line 1",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityAddressAddressLine2": {
+            "RegulatoryName": "Entity Address Address Line 2",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityAddressStateOrProvince": {
+            "RegulatoryName": "Entity Address State Or Province",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },  
+        "EntityAddressPostalZipCode": {
+            "RegulatoryName": "Entity Address Postal Zip Code",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CityAreaCode": {
+            "RegulatoryName": "City Area Code",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Security12bTitle": {
+            "RegulatoryName": "Security 12b Title",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "TradingSymbol": {
+            "RegulatoryName": "Trading Symbol",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SecurityExchangeName": {
+            "RegulatoryName": "Security Exchange Name",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityCurrentReportingStatus": {
+            "RegulatoryName": "Entity Current Reporting Status",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityInteractiveDataCurrent": {
+            "RegulatoryName": "Entity Interactive Data Current",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityFilerCategory": {
+            "RegulatoryName": "Entity Filer Category",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntitySmallBusiness": {
+            "RegulatoryName": "Entity Small Business",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityEmergingGrowthCompany": {
+            "RegulatoryName": "Entity Emerging Growth Company",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityShellCompany": {
+            "RegulatoryName": "Entity Shell Company",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EntityCommonStockSharesOutstanding": {
+            "RegulatoryName": "Entity Common Stock Shares Outstanding",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EarningsPerShareBasic": {
+            "RegulatoryName": "Earnings Per Share Basic",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EarningsPerShareDiluted": {
+            "RegulatoryName": "Earnings Per Share Diluted",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "WeightedAverageNumberOfSharesOutstandingBasic": {
+            "RegulatoryName": "Weighted Average Number Of Shares Outstanding Basic",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "WeightedAverageNumberOfDilutedSharesOutstanding": {
+            "RegulatoryName": "Weighted Average Number Of Diluted Shares Outstanding",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CashAndCashEquivalentsAtCarryingValue": {
+            "RegulatoryName": "Cash And Cash Equivalents At Carrying Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryNet": {
+            "RegulatoryName": "Inventory Net",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LandAndBuildingsGross": {
+            "RegulatoryName": "Land And Buildings Gross",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "MachineryAndEquipmentGross": {
+            "RegulatoryName": "Machinery And Equipment Gross",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment": {
+            "RegulatoryName": "Accumulated Depreciation Depletion And Amortization Property Plant And Equipment",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PropertyPlantAndEquipmentNet": {
+            "RegulatoryName": "Property Plant And Equipment Net",
+            "Category": "Disclosures",  
+            "SubCategory": "Other",
+            "Type": "Text", 
+            "RiskLevel": "Medium",
+            "Usage": [
+                  "General Reporting"
+            ]
+        },  
+        "Goodwill": {
+            "RegulatoryName": "Goodwill",
+                    "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccountsPayableCurrent": {
+            "RegulatoryName": "Accounts Payable Current",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LongTermDebtAndCapitalLeaseObligations": {
+            "RegulatoryName": "Long Term Debt And Capital Lease Obligations",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "CommitmentsAndContingencies": {
+            "RegulatoryName": "Commitments And Contingencies",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PreferredStockNoParValue": {
+            "RegulatoryName": "Preferred Stock No Par Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PreferredStockSharesAuthorized": {
+            "RegulatoryName": "Preferred Stock Shares Authorized",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PreferredStockSharesIssued": {
+            "RegulatoryName": "Preferred Stock Shares Issued",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PreferredStockValue": {
+            "RegulatoryName": "Preferred Stock Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CommonStockParOrStatedValuePerShare": {
+            "RegulatoryName": "Common Stock Par Or Stated Value Per Share",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CommonStockSharesAuthorized": {
+            "RegulatoryName": "Common Stock Shares Authorized",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CommonStockSharesIssued": {
+            "RegulatoryName": "Common Stock Shares Issued",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CommonStockValue": {
+            "RegulatoryName": "Common Stock Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AdditionalPaidInCapitalCommonStock": {
+            "RegulatoryName": "Additional Paid In Capital Common Stock",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Depreciation": {
+            "RegulatoryName": "Depreciation",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensation": {
+            "RegulatoryName": "Share Based Compensation",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AssetImpairmentChargesandRestructuringReserveSettledWithoutCash": {
+            "RegulatoryName": "Asset Impairment Charges and Restructuring Reserve Settled Without Cash",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InsuranceRecoveries": {
+            "RegulatoryName": "Insurance Recoveries",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInAccountsReceivable": {
+            "RegulatoryName": "Increase Decrease In Accounts Receivable",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncreaseDecreaseInInventories": {
+            "RegulatoryName": "Increase Decrease In Inventories",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PaymentsToAcquirePropertyPlantAndEquipment": {
+            "RegulatoryName": "Payments To Acquire Property Plant And Equipment",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromSaleOfPropertyPlantAndEquipment": {
+            "RegulatoryName": "Proceeds From Sale Of Property Plant And Equipment",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PaymentsToAcquireBusinessesNetOfCashAcquired": {
+            "RegulatoryName": "Payments To Acquire Businesses Net Of Cash Acquired",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromRepaymentsOfNotesPayable": {
+            "RegulatoryName": "Proceeds From Repayments Of Notes Payable",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ProceedsFromRepaymentsOfLinesOfCredit": {
+            "RegulatoryName": "Proceeds From Repayments Of Lines Of Credit",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DividendReinvestmentAndEmployeeBenefitAndStockPlans": {
+            "RegulatoryName": "Dividend Reinvestment And Employee Benefit And Stock Plans",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+                ]
+        },
+        "PaymentsOfDividendsCommonStock": {
+            "RegulatoryName": "Payments Of Dividends Common Stock",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents": {
+            "RegulatoryName": "Effect Of Exchange Rate On Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect": {
+                "RegulatoryName": "Cash Cash Equivalents Restricted Cash And Restricted Cash Equivalents Period Increase Decrease Including Exchange Rate Effect",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InterestPaidNet": {
+            "RegulatoryName": "Interest Paid Net",
+                "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Changeinaccountspayablerelatedtopurchasesofpropertyplantandequipment": {
+            "RegulatoryName": "Change In Accounts Payable Related To Purchases Of Property Plant And Equipment",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SupplierFinanceProgramTextBlock": {
+            "RegulatoryName": "Supplier Finance Program Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SupplierFinanceProgramObligation": {
+            "RegulatoryName": "Supplier Finance Program Obligation",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "FairValueDisclosuresTextBlock": {
+            "RegulatoryName": "Fair Value Disclosures Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfCashHedgesTableTextBlock": {
+            "RegulatoryName": "Schedule Of Cash Hedges Table Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "TranslationAdjustmentForNetInvestmentHedgeIncreaseDecreaseNetOfTax": {
+            "RegulatoryName": "Translation Adjustment For Net Investment Hedge Increase Decrease Net Of Tax",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfNetInvestmentHedgesStatementsOfFinancialPerformanceAndFinancialPositionLocationTableTextBlock": {
+            "RegulatoryName": "Schedule Of Net Investment Hedges Statements Of Financial Performance And Financial Position Location Table Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringImpairmentAndOtherActivitiesDisclosureTextBlock": {
+            "RegulatoryName": "Restructuring Impairment And Other Activities Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "GainLossOnSaleOfProperties": {
+            "RegulatoryName": "Gain Loss On Sale Of Properties",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringReserve": {
+            "RegulatoryName":"restructure reserve",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringCharges": {
+            "RegulatoryName": "Restructuring Charges",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "RestructuringReserveTranslationAdjustment": {
+            "RegulatoryName": "Restructuring Reserve Translation Adjustment",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PaymentsForRestructuring": {
+            "RegulatoryName": "Payments For Restructuring",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "StockIssuedDuringPeriodSharesStockOptionsExercised": {
+            "RegulatoryName": "Stock Issued During Period Shares Stock Options Exercised",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangements By Share Based Payment Award Options Exercises In Period Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriod": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Forfeitures And Expirations In Period",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsForfeituresAndExpirationsInPeriodWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Forfeitures And Expirations In Period Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Outstanding Intrinsic Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingNumber": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsVestedAndExpectedToVestOutstandingAggregateIntrinsicValue": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Vested And Expected To Vest Outstanding Aggregate Intrinsic Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableNumber": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercisable Number",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisableWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangement By Share Based Payment Award Options Exercisable Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SharebasedCompensationArrangementBySharebasedPaymentAwardOptionsExercisableIntrinsicValue1": {
+            "RegulatoryName": "Sharebased Compensation Arrangement By Sharebased Payment Award Options Exercisable Intrinsic Value 1",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfOtherShareBasedCompensationActivityTableTextBlock": {
+            "RegulatoryName": "Schedule Of Other Share Based Compensation Activity Table Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsOtherShareIncreaseDecreaseInPeriodWeightedAverageExercisePrice": {
+            "RegulatoryName": "Share Based Compensation Arrangements By Share Based Payment Award Options Other Share Increase Decrease In Period Weighted Average Exercise Price",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanAmortizationOfTransitionAssetObligation": {
+            "RegulatoryName": "Defined Benefit Plan Amortization Of Transition Asset Obligation",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanAmortizationOfGainsLosses": {
+            "RegulatoryName": "Defined Benefit Plan Amortization Of Gains Losses",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlanRecognizedNetGainLossDueToSettlements1": {
+            "RegulatoryName": "Defined Benefit Plan Recognized Net Gain Loss Due To Settlements 1",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DefinedBenefitPlansGeneralInformation": {
+            "RegulatoryName": "Defined Benefit Plans General Information",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryDisclosureTextBlock": {
+            "RegulatoryName": "Inventory Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "PercentageOfLIFOInventory": {
+            "RegulatoryName": "Percentage Of LIFO Inventory",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfInventoryCurrentTableTextBlock": {
+            "RegulatoryName": "Schedule Of Inventory Current Table Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryFinishedGoods": {
+            "RegulatoryName": "Inventory Finished Goods",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryWorkInProcess": {
+            "RegulatoryName": "Inventory Work In Process",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryRawMaterialsAndSupplies": {
+            "RegulatoryName": "Inventory Raw Materials And Supplies",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+                "Usage": [
+                "General Reporting"
+                ]
+        },
+        "InventoryGross": {
+            "RegulatoryName": "Inventory Gross",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "InventoryLIFOReserve": {
+            "RegulatoryName": "Inventory LIFO Reserve",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LongTermDebtTextBlock": {
+            "RegulatoryName": "Long Term Debt Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "LongTermDebtFairValue": {
+            "RegulatoryName": "Long Term Debt Fair Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "ShortTermDebtTextBlock": {
+            "RegulatoryName": "Short Term Debt Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "Financial Analysis",
+                "Risk Assessment"
+            ]
+        },
+        "LineOfCreditFacilityMaximumBorrowingCapacity": {
+            "RegulatoryName": "Line Of Credit Facility Maximum Borrowing Capacity",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "LineOfCreditFacilityFairValueOfAmountOutstanding": {
+            "RegulatoryName": "Line Of Credit Facility Fair Value Of Amount Outstanding",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NotesPayable": {
+            "RegulatoryName": "Notes Payable",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "EnvironmentalLossContingencyDisclosureTextBlock": {
+            "RegulatoryName": "Environmental Loss Contingency Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccrualForEnvironmentalLossContingencies": {
+            "RegulatoryName": "Accrual For Environmental Loss Contingencies",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "AccruedEnvironmentalLossContingenciesCurrent": {
+            "RegulatoryName": "Accrued Environmental Loss Contingencies Current",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "UnrecognizedTaxBenefits": {
+            "RegulatoryName": "Unrecognized Tax Benefits",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "TaxAdjustmentsSettlementsAndUnusualProvisions": {
+            "RegulatoryName": "Tax Adjustments Settlements And Unusual Provisions",
+                "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]   
+        },
+        "EarningsPerShareTextBlock": {
+            "RegulatoryName": "Earnings Per Share Text Block",
+                "Category": "Disclosures",
+            "Sub    Category": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfAntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareTextBlock": {
+            "RegulatoryName": "Schedule Of Antidilutive Securities Excluded From Computation Of Earnings Per Share Text Block",
+                "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "IncrementalCommonSharesAttributableToShareBasedPaymentArrangements": {
+            "RegulatoryName": "Incremental Common Shares Attributable To Share Based Payment Arrangements",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "StockIssuedDuringPeriodValueDividendReinvestmentPlan": {
+            "RegulatoryName": "Stock Issued During Period Value Dividend Reinvestment Plan",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "StockIssuedDuringPeriodValueEmployeeBenefitPlan": {
+            "RegulatoryName": "Stock Issued During Period Value Employee Benefit Plan",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "StockRepurchasedDuringPeriodValue": {
+            "RegulatoryName": "Stock Repurchased During Period Value",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Numeric",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "CommonStockDividendsPerShareDeclared": {
+            "RegulatoryName": "Common Stock Dividends Per Share Declared",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "DividendsCommonStockCash": {
+            "RegulatoryName": "Dividends Common Stock Cash",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "GoodwillGross": {
+            "RegulatoryName": "Goodwill Gross",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "GoodwillForeignCurrencyTranslationGainLoss": {
+            "RegulatoryName": "Goodwill Foreign Currency Translation Gain Loss",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+                ]
+        },
+        "CommitmentsAndContingenciesDisclosureTextBlock": {
+            "RegulatoryName": "Commitments And Contingencies Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                    "General Reporting"
+            ]
+        },
+        "LossContingencyDamagesSought": {
+            "RegulatoryName": "Loss Contingency Damages Sought",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "High",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "SegmentReportingDisclosureTextBlock": {
+            "RegulatoryName": "Segment Reporting Disclosure Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "ScheduleOfSegmentReportingInformationBySegmentTextBlock": {
+            "RegulatoryName": "Schedule Of Segment Reporting Information By Segment Text Block",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "Rule10b51ArrAdoptedFlag": {
+            "RegulatoryName": "Rule 10b5-1 Arr Adopted Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other", 
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NonRule10b51ArrTrmntdFlag": {
+            "RegulatoryName": "Non Rule 10b5-1 Arr Terminated Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        },
+        "NonRule10b51ArrAdoptedFlag": {
+            "RegulatoryName": "Non Rule 10b5-1 Arr Adopted Flag",
+            "Category": "Disclosures",
+            "SubCategory": "Other",
+            "Type": "Text",
+            "RiskLevel": "Medium",
+            "Usage": [
+                "General Reporting"
+            ]
+        }
+    },
+    "ExternalSources": {}
+}
