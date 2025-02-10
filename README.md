@@ -1,75 +1,97 @@
 # **SEC Filings Analysis Tool**
 
 ## **📌 Overview**
-This tool extracts and processes financial data from **SEC XBRL filings**. It utilizes **Arelle** to parse the XBRL files, stores extracted data in a SQLite database, and saves structured information in CSV format.
+The **SEC Filings Analysis Tool** is an automated system for extracting and analyzing **XBRL filings** from the **U.S. Securities and Exchange Commission (SEC)**. This tool leverages **Arelle** for XBRL parsing, stores structured financial data in a **SQLite database**, and exports results to **CSV format** for further analysis.
 
 ---
 ## **🛠 Features**
-✔ **Automated Parsing** – Extract key financial data from SEC filings.
-✔ **Database Storage** – Save extracted data into a structured SQLite database.
-✔ **CSV Export** – Generate organized CSV reports for further analysis.
-✔ **HTML Data Cleaning** – Remove unnecessary HTML from financial text.
-✔ **Tag Mapping** – Uses a structured JSON file for metadata reference.
+✔ **Automated Parsing** – Extracts key financial data from SEC filings.
+✔ **Database Storage** – Saves extracted data into a structured SQLite database.
+✔ **CSV Export** – Generates structured CSV reports for easy data analysis.
+✔ **Advanced Logging** – Uses a professional logging system.
+✔ **Data Cleaning** – Removes unnecessary HTML and transforms raw XBRL data.
+✔ **Tag Mapping** – Uses structured JSON files for metadata reference.
+✔ **Flexible Ticker Extraction** – Extracts ticker from multiple sources (XBRL, database, etc.).
 
 ---
 ## **📥 Installation**
 ### **1️⃣ Clone the Repository**
 ```sh
- git clone https://github.com/TheKingHippopotamus/secfillings_Analyses_tool.git
- cd secfillings_Analyses_tool
+git clone https://github.com/TheKingHippopotamus/secfillings_Analyses_tool.git
+cd secfillings_Analyses_tool
 ```
 ### **2️⃣ Install Dependencies**
-Make sure Python is installed, then install the required libraries:
+Ensure Python is installed, then run:
 ```sh
-pip install pandas beautifulsoup4 arelle
+pip install -r requirements.txt
 ```
 
 ---
 ## **📂 File Structure**
 ```
 secfillings_Analyses_tool/
-│── app.py                 # Main script
-│── structured_tags.json    # Metadata for XBRL tags
-│── all_xbrl_tags.csv       # List of extracted XBRL tags
-│── tags.json               # Additional tag mapping
-│── test.py                 # Test script
-│── README.md               # Project documentation
+│── src/
+│   ├── main.py                 # Main script
+│   ├── process_xbrl.py         # XBRL data extraction logic
+│   ├── ticker_lookup.py        # Fetch ticker from XBRL or DB
+│   ├── metadata_loader.py      # Loads metadata from JSON
+│   ├── database.py             # Handles SQLite database operations
+│   ├── env_loader.py           # Loads environment variables
+│   ├── logger_config.py        # Logger configuration
+│   ├── file_utils.py           # File handling utilities
+│── data/
+│   ├── awaiting_secFiles/      # Unprocessed SEC XBRL files
+│   ├── database/xbrl_data.db   # SQLite database file
+│   ├── csvDatabase/            # Generated CSV reports
+│   ├── helpers/json/           # Metadata JSON files
+│── logs/
+│   ├── app.log                 # Application log file
+│── README.md                   # Project documentation
 ```
 
 ---
 ## **🚀 Usage**
-Run the main script to process an XBRL file:
+### **Run the SEC Filings Processor**
 ```sh
-python app.py
+python src/main.py
 ```
 
-The script will:
-1. Parse the XBRL file.
-2. Extract metadata (Ticker, Report Type, Fiscal Year).
-3. Store data in `xbrl_data.db` (SQLite).
-4. Save results to a structured CSV file.
+### **How It Works:**
+1️⃣ Parses an XBRL file.
+2️⃣ Extracts metadata (**Ticker, Report Type, Fiscal Year**).
+3️⃣ Stores structured financial data in `xbrl_data.db` (SQLite).
+4️⃣ Generates CSV reports in `data/csvDatabase/`.
+5️⃣ Logs processing details in `logs/app.log`.
 
 ---
 ## **⚙ Configuration**
-Update `app.py` to point to the correct **XBRL file path** before running:
-```python
-file_path = "/path/to/your/SEC_filing.txt"
-db_path = "/path/to/xbrl_data.db"
-tags_json_path = "/path/to/structured_tags.json"
+Update your **`.env` file** (or `env_loader.py`) with the correct paths:
+```sh
+FILE_PATH=/absolute/path/to/your/SEC_filing.txt
+DB_PATH=/absolute/path/to/xbrl_data.db
+TAGS_JSON_PATH=/absolute/path/to/structured_tags.json
+CSV_OUTPUT_DIR=/absolute/path/to/csvDatabase/
+MISSING_TAGS_CSV_PATH=/absolute/path/to/missing_xbrl_tags.csv
 ```
 
 ---
 ## **📝 Data Fields**
-The extracted data includes:
-- **CompanyID** (Ticker or CIK)
-- **ReportType** (10-K, 10-Q, etc.)
-- **FiscalYear** (Year of report)
-- **Tag** (XBRL tag name)
-- **RegulatoryName** (Mapped from JSON metadata)
-- **CleanValue** (Processed value)
-- **StartDate / EndDate / Instant** (Context period)
-- **Category / SubCategory** (Financial classification)
-- **RiskLevel** (Risk rating)
+### **Extracted Information**
+- **CompanyID** (*Ticker or CIK*)
+- **ReportType** (*10-K, 10-Q, etc.*)
+- **FiscalYear** (*Report Year*)
+- **Tag** (*XBRL Tag Name*)
+- **RegulatoryName** (*Mapped from JSON metadata*)
+- **CleanValue** (*Processed Financial Value*)
+- **StartDate / EndDate / Instant** (*Context Period*)
+- **Category / SubCategory** (*Financial Classification*)
+- **RiskLevel** (*Risk Rating*)
+
+### **📊 Example CSV Output**
+```
+CompanyID, ReportType, FiscalYear, Tag, RegulatoryName, CleanValue, StartDate, EndDate, Instant, Category
+AAPL, 10-K, 2024, Revenue, Net Sales, 394.3B, 2024-01-01, 2024-12-31, NULL, Financials
+```
 
 ---
 ## **🛠 Database Schema (SQLite)**
@@ -94,30 +116,31 @@ CREATE TABLE IF NOT EXISTS xbrl_data (
 ```
 
 ---
-## **📊 Example Output**
-Example of extracted financial data:
+## **📊 Logging System**
+✔ **Logs are saved to `logs/app.log`** for easy debugging.
+✔ **Logging levels:** `DEBUG`, `INFO`, `WARNING`, `ERROR`, `CRITICAL`
+✔ **Example log entry:**
 ```
-CompanyID, ReportType, FiscalYear, Tag, RegulatoryName, CleanValue, StartDate, EndDate, Instant, Category
-AAPL, 10-K, 2024, Revenue, Net Sales, 394.3B, 2024-01-01, 2024-12-31, NULL, Financials
+2025-02-09 10:30:15 - INFO - ticker_lookup.py - fetch_ticker_from_db - Fetched ticker from DB: AAPL
 ```
-
----
-## **📌 Notes**
-- Ensure that the **XBRL file path** is correctly set.
-- The script assumes an **XBRL file format** as used by the SEC.
-- Some fields may require additional processing for better analysis.
 
 ---
 ## **📩 Contributing**
-Feel free to submit pull requests or open issues to improve the tool!
+Want to improve this tool? Feel free to submit pull requests or open issues!
 
 ---
 ## **📜 License**
 MIT License © TheKingHippopotamus
 
-# Arelle Installation & Troubleshooting Guide
 
-## Overview
+
+
+
+
+-------------------------------------------------------------------------------                                                     
+## **🔹 Arelle Installation & Troubleshooting Guide** 
+
+## **Overview**
 Arelle is an open-source XBRL processor that helps parse and analyze XBRL filings. However, installing and running Arelle can sometimes be tricky due to compatibility issues with Python versions and dependencies.
 
 This guide provides a comprehensive overview of:
