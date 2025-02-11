@@ -1,0 +1,27 @@
+# TODO:
+# - Add to readme file about the process of the collector
+# - Add to readme file about the process of the watcher
+# - Add to readme file about the process of the mastercollector.py
+
+
+# add auto timeing for mastercollector.py - for example:
+# every morning at 9:00 AM
+# every afternoon at 1:00 PM
+# every evening at 7:00 PM
+# every night at 11:00 PM
+# every day at 12:00 AM
+!! but if he find a file that is already in the json file, he should not download it again
+
+# create a memory for watcher.py - for example:
+# if the file is already in the json file, he should not print it again
+# if the file is not in the json file, he should print it
+# if the file is in the json file, he should not print it
+# if the file is not in the json file, he should print it
+# if the file is in the json file, he should not print it
+we are going to convert the memory into a binary file and we are going to use the pickle module to save the memory
+the mastercollector can use the memory to know if the file is already in the json file
+
+# add a function to the mastercollector.py to check if the file is already in the json file
+# if the file is already in the json file, he should not download it again
+# if the file is not in the json file, he should download it
+# if the file is in the json file, he should not download it
