@@ -1,9 +1,18 @@
 import os
 import sqlite3
-from logger_config import logger  # ✅ ייבוא הלוגר
+from logger_config import logger 
+import logging
+import time
+
+
+# 🔹 Configure logging
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(filename)s - %(funcName)s - %(message)s", datefmt="%Y-%m-%d %H:%M:%S")
+logger = logging.getLogger(__name__)
+
+start_time = time.time()
 
 def fetch_ticker_from_db():
-    """שליפת Ticker מבסיס הנתונים אם נמצא בעבר"""
+    
     db_path = os.getenv("DB_PATH")
     if not db_path:
         logger.error("DB_PATH is not set in environment variables")
@@ -45,3 +54,8 @@ def save_ticker_to_db(ticker):
         logger.exception(f"Error saving ticker '{ticker}' to DB")
     finally:
         conn.close()
+        
+
+end_time = time.time()
+logger.info(f"🔹 Total execution time of save_ticker_to_db: {end_time - start_time} seconds")
+
